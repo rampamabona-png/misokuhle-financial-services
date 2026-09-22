@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://misokuhlefinancials.co.za/sitemap.xml
